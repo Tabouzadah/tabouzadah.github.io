@@ -208,7 +208,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/insta.svg",
-    url: "https://www.instagram.com/seiftabouzadah/",
+    url: "https://www.instagram.com/seifthedeveloper/",
   },
   {
     id: 3,
